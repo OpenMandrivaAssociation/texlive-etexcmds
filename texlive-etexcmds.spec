@@ -1,6 +1,6 @@
 Name:		texlive-etexcmds
 Version:	53171
-Release:	1
+Release:	2
 Summary:	Avoid name clashes with e-TeX commands
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/etexcmds
