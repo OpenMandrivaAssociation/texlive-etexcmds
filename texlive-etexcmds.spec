@@ -3,7 +3,7 @@ Version:	53171
 Release:	2
 Summary:	Avoid name clashes with e-TeX commands
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/etexcmds
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/etexcmds
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/etexcmds.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/etexcmds.doc.r%{version}.tar.xz
